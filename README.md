@@ -1,2 +1,3 @@
-# findDigit
-finding digits on python (I know its simple but ı just wanna add).
+#findDigit
+
+A tiny Python utility to count the number of digits in an integer without converting it to a string.
